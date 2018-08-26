@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">test</string>
+    <string name="disable_Interstitial">Disable Interstitial</string>
+    <string name="bonus_task_btn">Bonus Task</string>
 </resources>
